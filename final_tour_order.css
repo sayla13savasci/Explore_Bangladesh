@@ -1,0 +1,106 @@
+
+
+
+div.booking_options{
+  background-color: #52c7a0;
+  height: 50px;
+  color: white;
+  font-size: 20px;
+  padding-left: 20px;
+  
+}
+
+div.description{
+  background-color: #52c7a0;
+  height: 50px;
+  color: white;
+  font-size: 20px;
+  padding-left: 20px;
+  
+}
+
+
+div.seller{
+  padding-left: 20px;
+  color: #586674;
+
+
+}
+
+div.footer{
+	background-color: #09092a;
+	margin-top: 70px;
+	width: 1400px;
+	margin-bottom: 50px;
+	height: 200px;
+
+}
+div.about_us{
+	display: inline-block;
+	margin-left: 200px;
+}
+
+ab.h4{
+	text-decoration: underline;
+
+}
+
+sp.h4{
+	text-decoration: underline;
+
+}
+
+/*  input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div.form_div {
+    border-radius: 5px;
+    padding: 10px;
+
+}
+*/
+
+/*input[type=submit]:hover {
+      background-color: #45a049;
+      width: 100px;
+  }
+
+input {
+    width: 280px;
+    height: 60px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}*/
+
+table.register_table.th,td {
+      padding-top: 20px;
+      padding-left: 60px;    
+}
+  table.register_table{
+  margin-left: -70px;
+  margin-top:10px;
+}
+

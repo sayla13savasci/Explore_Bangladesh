@@ -1,0 +1,35 @@
+
+div.nav_div{
+    margin-right:500px;
+}
+.nav_div ul {
+
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+
+  
+}
+
+.nav_div li {
+    float: left;
+}
+
+.nav_div li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 22px 26px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav_div li a:hover:not(.active) {
+    color:  #00cccc;
+}
+
+
+.active{
+    border-bottom: 3px solid  #00cccc;
+}

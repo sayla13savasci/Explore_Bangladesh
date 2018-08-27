@@ -1,0 +1,59 @@
+
+
+
+div.booking_options{
+  
+  height: 50px;
+  color: white;
+  font-size: 20px;
+  padding-left: 20px;
+  
+}
+
+div.description{
+ 
+  height: 50px;
+  color: white;
+  font-size: 20px;
+  padding-left: 20px;
+  
+}
+
+
+div.seller{
+  padding-left: 20px;
+  color: #586674;
+
+
+}
+
+
+
+
+  
+
+
+input[type=submit] {
+    width: 40%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div.form_div {
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+
+
+

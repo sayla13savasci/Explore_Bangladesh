@@ -1,0 +1,35 @@
+<style>
+
+
+
+ul {
+    list-style-type: none;
+    margin-right: 250px;
+    padding: 10;
+    overflow: hidden;
+    
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display:block;
+    color: gray;
+    text-align: center;
+    padding: 24px 20px;
+    margin-right:50 px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: Whitesmoke;
+    color:YellowGreen;
+}
+
+
+
+
+</style>

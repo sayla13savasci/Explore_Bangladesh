@@ -1,0 +1,130 @@
+
+div.nav_div{
+    margin-right:500px;
+}
+.nav_div ul {
+
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+
+  
+}
+
+.nav_div li {
+    float: left;
+}
+
+.nav_div li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 22px 26px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav_div li a:hover:not(.active) {
+    color:  #00cccc;
+}
+
+
+.active{
+    border-bottom: 3px solid  #00cccc;
+}
+.Home_page_img {
+            clear: both;
+            position: relative;
+            margin-top: 30px;
+            background: url(tour2.jpg);
+            background-size: 1400px 1500px;
+            background-repeat: no-repeat;
+            width: 1350px;
+            height: 700px;
+}
+
+
+.simple-text{
+    width: 700px;
+    height: 60px;
+    /*background-color:#009999;*/
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
+
+.detail{
+    padding-left: 50%;
+}
+.detail strong{
+    font-size: 25px;
+}
+.more-detail{
+    padding-top: 10%;
+
+}
+
+
+
+a.btn:hover {background-color: red;
+}
+
+
+.pagination-active{
+    background-color: #009999;
+    color: #FFF;
+}
+
+
+ {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.tour-image {
+  position: relative;
+  border: none;
+  margin: 2%;
+  overflow: hidden;
+  width: 270px;
+  height: 180px;
+} 
+
+
+.tour-image img {
+  max-width: 100%; 
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+
+
+.tour-image img:hover {
+    opacity: 0.6;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+    -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+    
+} 
+
+.dd:hover{
+    background-color: red;
+}
+
+
+.tour-type p{
+    padding-left: 40px;
+    font-size: 15px;
+
+}
+
+.design_text_one p{
+  padding-left: 40px;
+  font-size: 17px;
+}
